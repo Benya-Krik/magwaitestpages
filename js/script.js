@@ -110,7 +110,7 @@ async function getCards() {
     list.innerHTML += `
     <div class="posts__item post">
       <div class="post__image">
-      <img src="/assets/img/carditem.jpg" alt="Post image">
+      <img src="./assets/img/carditem.jpg" alt="Post image">
       </div>
       <div class="post__content">
         <p class="post__label">Water</p>
